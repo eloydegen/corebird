@@ -9,4 +9,5 @@ CREATE TABLE IF NOT EXISTS `snippets`(
 
 INSERT INTO `snippets` (key, value) VALUES ('dealwithit', '(•_•) ( •_•)>⌐■-■ (⌐■_■)');
 INSERT INTO `snippets` (key, value) VALUES ('tableflip', '(╯°□°）╯︵ ┻━┻');
-
+INSERT INTO `snippets` (key, value) VALUES ('dunno', '¯\_(ツ)_/¯');
+INSERT INTO `snippets` (key, value) VALUES ('lenny', '( ͡° ͜ʖ ͡°)');
